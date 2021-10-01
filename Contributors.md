@@ -1988,6 +1988,7 @@ tayo360
 - [Abhinash Yadav](https://github.com/ralphcoder)
 - [Thibaut Eberhart](https://github.com/teberhart)
 - [Alexandra Stan](https://github.com/AleS2801)
+- [Julie Park] (https://github.com/jspark721)
 
 
 <!-- prettier-ignore-end -->
